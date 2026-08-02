@@ -1,2 +1,2 @@
 
-Character.SetNumCoins(6400);
+Character.SetNumCoins(0);
