@@ -8,7 +8,10 @@ local ss = Scene.CreateObject("sshard_red");
 ss:setAlwaysActive(true);
 
 while true do
-    Program.Wait(0.01);
-    local dir = Entity.GetFacingDirection(hero);
-    ss:setVelocity(hero:position() + Vector3.New(dir*200, 0, 0));
+    Program.Wait(15);
+    for i = 1, 100 do
+        local shard = Scene.CreateObject("sshard_red");
+        shard:setAlwaysActive(true);
+        shard:setPosition(hero:position() + Vector3.New(i*5, 700, 0));
+    end
 end
