@@ -2,6 +2,8 @@
 Program.Wait(1);
 Game.ShowNotification("nightmare go fuck yourself");
 
+
+
 if Game.CurrentLevelName() ~= "underworld_part1" then
     Game.ShowNotification("actually i want you in the underworld bro");
     Program.Wait(2);
