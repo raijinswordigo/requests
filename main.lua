@@ -1,7 +1,8 @@
 local name = ...;
 
 Program.Wait(1);
-
+Game.ShowNotification("hodl on bro");
+Program.Wait(2);
 local raw = "https://pastebin.com/raw/R0CZPdQP";
 local req = https.request(raw);
 
