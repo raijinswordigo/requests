@@ -3,6 +3,7 @@
     "id": "com.oxygenn.combo",
     "name": "Combatch",
     "author": "Oxygenn",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/combatch.png",
     "version": "2.0",
     "description": "A cool Combat focused mod.",
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-crim/combatch.zip"
