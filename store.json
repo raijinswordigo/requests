@@ -8,20 +8,4 @@
     "featured": true,
     "featuredImageUrl": "https://raw.githubusercontent.com/raijinswordigo/requests/main/banner.png"
   },
-  {
-    "id": "com.raijin.hdtextures",
-    "name": "HD Texture Pack",
-    "version": "2.1.0",
-    "description": "High resolution environment and UI textures for cleaner graphics.",
-    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/v2.1.0/hd-textures.zip",
-    "featured": false
-  },
-  {
-    "id": "com.raijin.hardmode",
-    "name": "Hardcore Difficulty",
-    "version": "1.0.2",
-    "description": "Rebalances enemies to deal double damage and removes health drops.",
-    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/v1.0.2/hardmode.zip",
-    "featured": false
-  }
 ]
