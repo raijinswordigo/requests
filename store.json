@@ -7,5 +7,14 @@
     "version": "2.0",
     "description": "A cool Combat focused mod.",
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-crim/combatch.zip"
+  },
+  {
+    "id": "com.td.remastered",
+    "name": "SwRemastered",
+    "author": "Training Dummy",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/remastered.png",
+    "version": "1.0",
+    "description": "Complete overhaul of the vanilla Swordigo scenes.",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-td/remastered.zip"
   }
 ]
