@@ -1,0 +1,27 @@
+[
+  {
+    "id": "com.raijin.sinon",
+    "name": "Sinon Mod",
+    "version": "1.0.0",
+    "description": "A featured utility mod with custom character skins and enhanced physics.",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/v1.0.0/sinon-mod.zip",
+    "featured": true,
+    "featuredImageUrl": "https://raw.githubusercontent.com/raijinswordigo/requests/main/banner.png"
+  },
+  {
+    "id": "com.raijin.hdtextures",
+    "name": "HD Texture Pack",
+    "version": "2.1.0",
+    "description": "High resolution environment and UI textures for cleaner graphics.",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/v2.1.0/hd-textures.zip",
+    "featured": false
+  },
+  {
+    "id": "com.raijin.hardmode",
+    "name": "Hardcore Difficulty",
+    "version": "1.0.2",
+    "description": "Rebalances enemies to deal double damage and removes health drops.",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/v1.0.2/hardmode.zip",
+    "featured": false
+  }
+]
