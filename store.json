@@ -5,7 +5,5 @@
     "version": "1.0.0",
     "description": "A featured utility mod with custom character skins and enhanced physics.",
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/v1.0.0/sinon-mod.zip",
-    "featured": true,
-    "featuredImageUrl": "https://raw.githubusercontent.com/raijinswordigo/requests/main/banner.png"
   },
 ]
