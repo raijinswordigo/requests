@@ -9,6 +9,15 @@
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-crim/combatch.zip"
   },
   {
+    "id": "com.oxygenn.forest",
+    "name": "Forest",
+    "author": "Oxygenn",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/forest.png",
+    "version": "2.0",
+    "description": "Inspect the beautiful forest",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-crim/forest.zip"
+  },
+  {
     "id": "com.td.remastered",
     "name": "SwRemastered",
     "author": "Training Dummy",
