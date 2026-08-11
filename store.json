@@ -25,5 +25,32 @@
     "version": "1.0",
     "description": "Complete overhaul of the vanilla Swordigo scenes.",
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-td/remastered.zip"
+  },
+  {
+    "id": "com.swtutorials.semibrainrot",
+    "name": "Semi Brainrot",
+    "author": "Yeghor Play",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/semibrainrot.png",
+    "version": "1",
+    "description": "An update by Yeghor Play soon!",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-nt/semibrainrot.zip"
+  },
+  {
+    "id": "com.swtutorials.vsauce",
+    "name": "Vsauce.exe",
+    "author": "Yeghor Play",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/vsauce.png",
+    "version": "1",
+    "description": "How many fingers do you have?",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-nt/vsauce.zip"
+  },
+  {
+    "id": "com.swordiforge.reimagined",
+    "name": "SwReimagined",
+    "author": "SwordiForge",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/reimagined.png",
+    "version": "beta",
+    "description": "The Swordigo 2 mod, sequel to RLSwordigo 4.5",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-nt/reimagined.zip"
   }
 ]
