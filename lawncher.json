@@ -1,0 +1,14 @@
+{
+  "versionCode": 6,
+  "versionName": "6.0",
+  "minSupportedVersionCode": 3,
+  "forceUpdate": false,
+  "title": "Update Available",
+  "changelog": [
+    "Improved",
+    "A major",
+    "feature."
+  ],
+  "downloadUrl": "...",
+  "releaseUrl": "..."
+}
