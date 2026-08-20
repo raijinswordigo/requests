@@ -3,12 +3,10 @@
   "versionName": "6.0",
   "minSupportedVersionCode": 3,
   "forceUpdate": false,
-  "title": "Update Available",
+  "title": "Minor Update",
   "changelog": [
-    "Improved",
-    "A major",
-    "feature."
+    "ButtonController fixes"
   ],
-  "downloadUrl": "...",
-  "releaseUrl": "..."
+  "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/5.0/app-release.apk",
+  "releaseUrl": "https://github.com/raijinswordigo/requests/releases/tag/5.0"
 }
