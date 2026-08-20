@@ -27,6 +27,15 @@
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-td/remastered.zip"
   },
   {
+    "id": "redbat.mods.xpera",
+    "name": "Xpera's Doom",
+    "author": "Redstell",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/mini.png",
+    "version": "1.0",
+    "description": "A mod where Xpera griefs your base and you must take revenge.",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods/redbat.mods.xpera.zip"
+  },
+  {
     "id": "com.swtutorials.semibrainrot",
     "name": "Semi Brainrot",
     "author": "Yeghor Play",
