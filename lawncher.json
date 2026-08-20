@@ -1,11 +1,11 @@
 {
-  "versionCode": 6,
-  "versionName": "6.0",
+  "versionCode": 5,
+  "versionName": "5.0",
   "minSupportedVersionCode": 3,
   "forceUpdate": false,
-  "title": "Minor Update",
+  "title": "Update",
   "changelog": [
-    "ButtonController fixes"
+    "Lawncher now auto-updates."
   ],
   "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/5.0/app-release.apk",
   "releaseUrl": "https://github.com/raijinswordigo/requests/releases/tag/5.0"
