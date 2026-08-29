@@ -9,6 +9,15 @@
     "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods-crim/combatch.zip"
   },
   {
+    "id": "com.swordiforge.MV",
+    "name": "SwordigoMV",
+    "author": "Mr.mogocs",
+    "icon": "https://raw.githubusercontent.com/raijinswordigo/requests/main/icons/mv.png",
+    "version": "2.0",
+    "description": "The best Swordigo Mod; Swordigo Mogocs Version.",
+    "downloadUrl": "https://github.com/raijinswordigo/requests/releases/download/mods/com.swordiforge.MV2.0.zip"
+  },
+  {
     "id": "com.oxygenn.forest",
     "name": "Forest",
     "author": "Oxygenn",
