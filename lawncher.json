@@ -1,16 +1,15 @@
 {
-  "versionCode": 70,
-  "versionName": "7.0",
+  "versionCode": 71,
+  "versionName": "7.1",
   "minSupportedVersionCode": 3,
   "forceUpdate": false,
-  "title": "UI Update",
+  "title": "Minor Update",
   "changelog": [
-    "Refactored main screen",
-    "Added settings and themes.",
-    "Refactored FilesScreen",
-    "Refactored TextEditor",
-    "Added Sidebars to TextEditor and FilesScreen"
+    "Refactored Launcher Screen.",
+    "Allowed for lightweight markdown support in mods.",
+    "Allowed for exporting and importing of saves for mods.",
+    "Updated UIs and Themes."
   ],
-  "downloadUrl": "https://github.com/raijinswordigo/swordigo-mod-launcher/releases/download/7.0/app-release.apk",
-  "releaseUrl": "https://github.com/raijinswordigo/swordigo-mod-launcher/releases/tag/7.0"
+  "downloadUrl": "https://github.com/raijinswordigo/lawncher/releases/download/7.1/app-release.apk",
+  "releaseUrl": "https://github.com/raijinswordigo/lawncher/releases/tag/7.1"
 }
